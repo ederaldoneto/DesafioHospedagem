@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rW8Z5CWVM+o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Notebook Acer\\Desktop\\DIO\\BackEnd .Net c# DIO\\DesafioHospedagem\\trilha-net-explorando-desafio\\DesafioHospedagem\\DesafioProjetoHospedagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Notebook Acer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Notebook Acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Notebook Acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Notebook Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
